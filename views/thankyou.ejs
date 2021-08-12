@@ -1,0 +1,14 @@
+<%- include("header.ejs") %>
+<h1>Thankyou for visiting</h1>
+<p>Hope you enjoyed.
+</p>
+
+<p>Leave your email if you want me to contact you in future.</p>
+
+<form class="forms" action="home" method="post">
+  <input type="text" name="fname" placeholder="First Name"> <br> <br>
+  <input type="text" name="lname" placeholder="Last Name"><br> <br>
+  <input type="email" placeholder="Email" > <br> <br>
+  <button type="submit" name="button" class="btn btn-md btn-primary">Submit</button>
+</form>
+<%- include("footer.ejs") %>

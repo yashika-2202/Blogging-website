@@ -1,0 +1,57 @@
+body{
+  background-image: url("/images/bgg].jpg");
+}
+ul{
+  padding-left: 30%;
+
+  font-size: 1.3rem;
+}
+
+textarea{
+  background-color: #ccebff;
+}
+.forms{
+  padding-left: 30%;
+}
+ footer{
+   position: fixed;
+            padding: 10px 10px 0px 620px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/
+            height: 40px;
+            background: grey;
+ }
+p{
+  padding-left: 30%;
+  padding-top: 5%;
+  font-size: 1.5rem;
+}
+h1{
+
+  padding-left: 30%;
+  padding-top: 3%;
+}
+
+.navbar{
+  padding-left: 53%;
+  padding-bottom: 4.5rem;
+}
+
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+.nav-item{
+
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.25rem;
+
+}
